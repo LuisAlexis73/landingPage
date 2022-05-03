@@ -1,0 +1,3 @@
+Hola a todos! me llamo  Luis Alexis soy de Entre rios Argentina. Vivo en una ciudad llamada Chajarí(se encuentra al norte de la provincia, en el límite con la provincia de Corrientes).
+Esta es una landinPage que hice siguiendo un tutorial en YouTube, con la única intencion de parcticar y con fines puramente de aprendizaje sin intencion alguna de lucrar.
+Espero no ofender a nadie, simplemente me parecio atractivo y "sencillo de hacerla", sin mas nada que agregar les dejo un saludo.
